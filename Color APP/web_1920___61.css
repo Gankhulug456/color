@@ -1,0 +1,281 @@
+/*
+	@name web_1920___61
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; width: 1920px; height: 1080px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__web_1920___61 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(225,151,61,255);
+}
+
+#colorWheel {
+	background-color: transparent;
+    position: absolute;  /* or 'relative' depending on your layout needs */
+    top: 100px;           /* Adjust this value to move it vertically */
+    left: 100px;         /* Adjust this value to move it horizontally */
+    transform: translate(205%, 88%); /* Center the canvas if needed */
+}
+
+#selectedImage {
+    position: absolute;
+    top: 35%;            /* Adjust percentage for vertical positioning */
+    left: 22%;           /* Centers horizontally */
+    transform: translate(-200, 80%);
+	width: 350px;
+	height: 600px;
+}
+
+
+canvas {
+    margin-right: 20px;
+	
+	background-color: transparent;
+	
+	
+}
+
+
+#path_13 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#path_14 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_50 {
+	top: 0px;
+	left: 0px;
+	width: 1922px;
+	height: 81px;
+	border: 1px solid #707070;
+	background:rgba(254,209,195,255);
+}
+
+
+#rectangle_51 {
+	top: 106px;
+	left: 1161px;
+	width: 734px;
+	height: 103px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	border: 1px solid #707070;
+	background:rgba(250,117,5,255);
+}
+
+
+#panchroma_logo_png {
+	top: 89px;
+	left: 94px;
+	width: 375px;
+	height: 132px;
+}
+
+
+#color_app {
+	top: 136px;
+	left: 1230px;
+	width: 143px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	text-align: center;
+	letter-spacing: 1.68px;
+	color:#000000;
+}
+
+
+#collections {
+	top: 136px;
+	left: 1446px;
+	width: 163px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	text-align: center;
+	letter-spacing: 1.68px;
+	color:#000000;
+}
+
+
+#rectangle_56 {
+	top: 585px;
+	left: 1086px;
+	width: 593px;
+	height: 402px;
+	-ms-border-radius: 25px;
+	-o-border-radius: 25px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_55 {
+	top: 503px;
+	left: 1086px;
+	width: 153px;
+	height: 45px;
+	-ms-border-radius: 21.5px;
+	-o-border-radius: 21.5px;
+	-moz-border-radius: 21.5px;
+	-webkit-border-radius: 21.5px;
+	border-radius: 21.5px;
+	border: 1px solid #000000;
+	background:rgba(250,117,5,255);
+}
+
+
+#shop_all {
+	top: 511px;
+	left: 1109px;
+	width: 105px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: center;
+	letter-spacing: 1.2px;
+	color:#ffffff;
+}
+
+
+#logo_teal {
+	top: 7px;
+	left: 94px;
+	width: 178px;
+	height: 66px;
+}
+
+
+#panchroma_white {
+	top: 6px;
+	left: 533px;
+	width: 193px;
+	height: 68px;
+}
+
+
+#fiberon_logo_png {
+	top: -55px;
+	left: 235px;
+	width: 336px;
+	height: 189px;
+}
+
+
+#rectangle_57 {
+	opacity:0.7;
+	top: 278px;
+	left: 202px;
+	width: 752px;
+	height: 718px;
+	-ms-border-radius: 35px;
+	-o-border-radius: 35px;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	border: 1px solid #191919;
+	background:rgba(255,255,255,255);
+}
+
+
+#image_1 {
+	top: 392px;
+	left: 358px;
+	width: 439px;
+	height: 513px;
+}
+
+
+#pngwing_com {
+	top: 646px;
+	left: 1242px;
+	width: 279px;
+	height: 279px;
+}
+
+
+#ellipse_53 {
+	top: 679px;
+	left: 1337px;
+	width: 59px;
+	height: 59px;
+	-ms-border-radius: 28.5px / 28.5px;
+	-o-border-radius: 28.5px / 28.5px;
+	-moz-border-radius: 28.5px / 28.5px;
+	-webkit-border-radius: 28.5px / 28.5px;
+	border-radius: 28.5px / 28.5px;
+	border: 1px solid #afafaf;
+	background:rgba(255,65,65,255);
+}
+
+
+#color__black__hex_code____080a0d_sku__pa02001_ {
+	top: 365px;
+	left: 1086px;
+	width: 389px;
+	height: 150.5px;
+	overflow: hidden;
+	font-family: Rondana;
+	font-size: 25px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#panchroma_matte_pla {
+	top: 278px;
+	left: 1086px;
+	width: 624px;
+	height: 98.5px;
+	overflow: hidden;
+	font-family: Rondana;
+	font-size: 55px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#shop_all_ek1 {
+	top: 136px;
+	left: 1682px;
+	width: 121px;
+	height: 57px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 28px;
+	text-align: center;
+	letter-spacing: 1.68px;
+	color:#000000;
+}
+
+
